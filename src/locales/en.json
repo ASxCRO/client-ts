@@ -1,0 +1,21 @@
+{
+  "contacts": "Contacts",
+  "currentPage": "Current page",
+  "add": "Add",
+  "chooseLanguage": "Choose Languge",
+  "name": "Name",
+  "surname": "Surname",
+  "search": "Search",
+  "email": "Email",
+  "actions": "Actions",
+  "delete": "Delete",
+  "edit": "Edit",
+  "username": "Username",
+  "password": "Password",
+  "fullName": "Full name",
+  "login": "Login",
+  "register": "Register",
+  "cancel": "Cancel",
+  "logout": "Logout",
+  "error": "There was an error, please try again later."
+}

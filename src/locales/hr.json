@@ -1,0 +1,21 @@
+{
+  "contacts": "Kontakti",
+  "currentPage": "Trenutna stranica",
+  "add": "Dodaj",
+  "chooseLanguage": "Odaberite jezik",
+  "name": "Ime",
+  "surname": "Prezime",
+  "search": "Pretraži",
+  "email": "Email",
+  "actions": "Akcije",
+  "delete": "Obriši",
+  "edit": "Ažuriraj",
+  "username": "Korisničko ime",
+  "password": "Zaporka",
+  "fullName": "Puno ime",
+  "login": "Prijava",
+  "register": "Registracija",
+  "cancel": "Odustani",
+  "error": "Došlo je do pogreške, pokušajte kasnije.",
+  "logout": "Odjava"
+}
